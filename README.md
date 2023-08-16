@@ -7,8 +7,8 @@ In the FrontEnd, we use vue3 + element plus
 
 Below are some pictures of our website
 
-![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/tree/main/img/welcome.png)
+![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/raw/main/img/welcome.png)
 
-![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/tree/main/img/calculator.png)
+![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/raw/main/img/calculator.png)
 
-![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/tree/main/img/compare.png)
+![image](https://github.com/Nathan-Liu-sudo/AwarenessCO2/raw/main/img/compare.png)
