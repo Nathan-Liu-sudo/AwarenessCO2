@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        ©2023 Awareness.CO2. | Powered by team TP11
+        ©2023 Powered by team TP11
     </footer>
   </template>
   
